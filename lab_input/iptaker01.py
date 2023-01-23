@@ -19,7 +19,7 @@ def main():
 
 # asking user for 'vendor name'
     vendor = input("Please input the vendor name: ")
-    print(vendor)
+    print("The vendor we chose was ", vendor)
 # this calls main
 main()
 
